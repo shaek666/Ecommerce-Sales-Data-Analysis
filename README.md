@@ -71,7 +71,7 @@ This Power BI report provides an interactive analysis of e-commerce sales data, 
 ---
 
 ## ⚙️ **How to Use**  
-1. **Open the Report**: Launch the `.pbix` file in Power BI Desktop.  
+1. **Open the Report**: Launch the `Project.pbix` file in Power BI Desktop.  
 2. **Navigate**: Use buttons on the Homepage to explore pages.  
 3. **Filter Data**: Adjust slicers to focus on specific regions, dates, or products.  
 4. **Reset Views**: Click the "Default View" button on any page to clear filters.  
